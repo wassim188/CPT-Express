@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aac00e46-1fbf-4260-81e3-b7866c858a80/dbet1if-e2a802e8-8ddc-4ff5-acd3-5a5990f5e57d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYzAwZTQ2LTFmYmYtNDI2MC04MWUzLWI3ODY2Yzg1OGE4MFwvZGJldDFpZi1lMmE4MDJlOC04ZGRjLTRmZjUtYWNkMy01YTU5OTBmNWU1N2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yQxqMj7cyOZoZiFj1mCMxIaerIh2dBTMwZ1U8z3qNDU);
+}
+.box { 
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 10%;
+}
+h2 {
+    font-size: 2em;
+    color: rgb(255, 153, 0);
+}
+h1 {
+    font-size: 2.5em;
+    color: rgb(221, 33, 0);
+}

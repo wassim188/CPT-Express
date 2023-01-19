@@ -1,0 +1,53 @@
+main{
+    min-height: 400px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5%;
+    border: 1px grey solid;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+nav {
+    padding: 20px 20px;
+    background-color: rgb(29, 29, 29);
+}
+a {
+    color: cornsilk;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 10px 10px;
+}
+a:hover {
+    background-color: darkgrey;
+}
+.home_box {
+    background: linear-gradient(
+    90deg,
+    rgb(202, 110, 5) 0%,
+    rgb(157, 255, 0) 100%
+  );
+}
+h2 {
+    font-size: 3.78em;
+}
+.services_box {
+ background: linear-gradient(
+    90deg,
+    rgb(207, 16, 255) 0%,
+    rgb(112, 16, 53) 100%
+  );
+}
+.contact_box {
+     background: linear-gradient(
+    90deg,
+    rgb(121, 12, 12) 0%,
+    rgb(157, 255, 0) 100%
+  );
+}
+body {
+    background-color: rgba(0, 0, 0, 0.658);
+}
